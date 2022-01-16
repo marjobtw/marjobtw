@@ -1,8 +1,3 @@
 ### Bad developer
 
-<a href="https://github.com/marjobtw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marjobtw&show_icons=true&include_all_commits=true&theme=synthwave" alt="marjobtw" />
-</a>
-<a href="https://github.com/marjobtw">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjobtw&layout=compact&theme=synthwave" alt="marjobtw" />
-</a>
+![Metrics](https://github.com/FizzyApple12/FizzyApple12/blob/master/github-metrics.svg)
